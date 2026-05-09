@@ -1,2 +1,3 @@
-Fixed
-- Restocker mode doesn't work
+Features
+- Translated to italian & chinese
+- Added new gauge specific ponder APIs
